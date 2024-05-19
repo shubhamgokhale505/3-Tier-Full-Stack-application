@@ -1,11 +1,11 @@
 {
-  "name": "3-tier-full-stack-application",
+  "name": "yelpcamp",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"There are no test-cases\" && exit 0",
-    "start": "node 3-Tier-Full-Stack-application/app.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
